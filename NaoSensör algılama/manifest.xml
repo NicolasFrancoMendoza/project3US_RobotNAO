@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package uuid="naosensralglama-401d4c">
+ <names>
+  <name lang="en_US">NaoSensör algılama</name>
+ </names>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="NaoSensör algılama">
+   <nature></nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>
